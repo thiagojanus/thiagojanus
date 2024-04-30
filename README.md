@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Thiago Januário 🖐️
 Sou um profissional da área de tecnologia com grande interesse em explorar as possibilidades do mundo digital. Do desenvolvimento de softwares ao gerenciamento de infraestrutura, dedico-me a aprender continuamente e aplicar minhas habilidades para criar soluções práticas e eficientes. Com experiência tanto como desenvolvedor quanto como usuário, busco compreender as diversas facetas da tecnologia e contribuir com inovações que tenham um impacto positivo em nossa sociedade digital em constante evolução!!👨🏾‍💻
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagojanus&show_icons=true&theme=dracula&count_private=true) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojanus)](https://github.com/anuraghazra/github-readme-stats)
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagojanus&show_icons=true&theme=dracula&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojanus&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
