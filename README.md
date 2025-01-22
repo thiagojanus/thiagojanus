@@ -4,7 +4,7 @@ Sou um profissional da área de tecnologia com grande interesse em explorar as p
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagojanus&show_icons=true&theme=dracula&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojanus&layout=compact)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que tenho conhecimento
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
